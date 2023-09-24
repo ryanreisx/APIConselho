@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KSodZVzVfm4p4TRZRu8ggyeBO808967ah2Cx0ld0yYYiqXYXGJdub018BGMsdrfXhSvdy77w+WIObrnydSBDRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryan\\Desktop\\VStudio\\ConselhoAPI\\ConselhoAPI\\ConselhoAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

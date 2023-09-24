@@ -1,0 +1,17 @@
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\bin\Debug\net6.0\ConselhoAPI.exe
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\bin\Debug\net6.0\ConselhoAPI.deps.json
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\bin\Debug\net6.0\ConselhoAPI.runtimeconfig.json
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\bin\Debug\net6.0\ConselhoAPI.dll
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\bin\Debug\net6.0\ConselhoAPI.pdb
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\obj\Debug\net6.0\ConselhoAPI.csproj.AssemblyReference.cache
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\obj\Debug\net6.0\ConselhoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\obj\Debug\net6.0\ConselhoAPI.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\obj\Debug\net6.0\ConselhoAPI.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\obj\Debug\net6.0\ConselhoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\obj\Debug\net6.0\ConselhoAPI.csproj.CopyComplete
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\obj\Debug\net6.0\ConselhoAPI.dll
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\obj\Debug\net6.0\refint\ConselhoAPI.dll
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\obj\Debug\net6.0\ConselhoAPI.pdb
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\obj\Debug\net6.0\ConselhoAPI.genruntimeconfig.cache
+C:\Users\Ryan\Desktop\VStudio\ConselhoAPI\ConselhoAPI\obj\Debug\net6.0\ref\ConselhoAPI.dll
